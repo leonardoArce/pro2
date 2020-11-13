@@ -1,0 +1,514 @@
+#info{
+	background-color: gray;
+}
+#menu p{
+	width: 100%
+	height: 50px;
+	
+}
+#menu{
+	position: fixed;
+	background-color: red;
+	opacity: 0.7;
+	height: 70px;
+	
+}
+#menu ul li{
+	float: left;
+	margin-left: 22px;
+	padding-right: 114px;
+	
+}
+#regresar{
+	position: fixed;
+	border-bottom: rgb(102, 121, 243);
+	border-radius:30px;
+	float: right;
+	padding-top: 600px;
+
+}
+#regresar a{
+	border-radius:30px;
+	width:50px;
+	height:50px;
+	color: black;
+
+}
+#regresar a:hover{
+	color: white;
+	background-color: 4, 33, 221;
+}
+#logo {
+	height: 100px;
+	
+	padding-right: 20px;
+	position: fixed;
+}
+#inicio{
+	background-color: #D8D0D9;
+	padding-left: 200px;
+}
+#inicio p{
+	float: right;
+	width: 20%;
+	padding-top: 120px;
+	font-size: 14pt;
+	font-family: arial,elvetica;
+}
+#inicio button{
+	border-radius: 6px;
+	background-color: #D88CE2;
+	color:white;
+	height: 42px;
+	width: 70;
+}
+#inicion img{
+	padding-right: 300px;
+}
+#prim{
+	width: 30%;
+	float: right;
+	bottom: 40px;
+	height: 300px;
+
+	top: 100px;
+
+}
+#prim img{
+	float: left;
+}
+#seg{
+	width: 30%;
+	float: left;
+}
+#seg img{
+	float: right;
+}
+#ter{
+	text-align: center;
+}
+#experiencia{
+	height: 500px;
+	background-color: #D8D0D9;
+}
+#experiencia h1{
+	text-align: center;
+	background-color: #D8D0D9;
+}
+#experiencia p{
+	text-align: center;
+	background-color: #D8D0D9;
+}
+#uno{
+	padding: 20PX;
+}
+#dos{
+	padding: 20PX;
+}
+#tres{
+	padding: 20PX;
+}
+#uno1{
+	padding: 20PX;
+}
+#dos1{
+	padding: 20PX;
+}
+#tres1{
+	padding: 20PX;
+}
+#invitacion{
+	width:70%;
+	height: 70px;
+	background-color: #8CE1E2;
+	color: white;
+	float: left;
+	padding-top: 30px;
+
+}
+#invitacionn {
+	width: 30%;
+	height: 70px;
+	margin-top: 21px;
+	height: 100px;
+	float: right;
+	background-color: #8CE1E2;
+	text-align: center;
+	color: white;
+}
+#invitacionn button{
+	border-radius: 30px;
+	width: 100px;
+	height: 50px;
+	color: white;
+	border-color: white;
+	background-color: #8CE1E2;
+}
+
+#clases{
+	width: 100%;
+	height: 550px;
+	background-color: #D8D0D9;
+	padding-top: 0px;
+	margin: 0px;
+
+	
+}
+#clase2{
+	padding-bottom: 0px;
+	width: 100%;
+	height: 400px;
+	background-color: #D8D0D9;
+}
+#clase1 ul{
+	list-style: none;
+	
+}
+#clase1 ul li{
+	margin-left: 70px;
+	margin: 50px;
+	float: left;
+	text-align: center;
+}
+#clase1 button{
+	position: relative;
+	left: 100px;
+	width: 50px;
+	bottom:120px;
+	border-radius: 50%;
+	background-color: red;
+	color: white;
+	
+}
+
+#clase1 ul li img:hover{
+	opacity: 0.5;
+	background-color:#8CB0E2; 
+}
+#clase1 button:hover{
+	opacity: 0.8;
+}
+#clase2 ul{
+	list-style: none;
+}
+#clase2 ul li{
+	margin-left: 70px;
+	float: left;
+	text-align: center;
+}
+#clase2 ul li img:hover{
+	opacity: 0.6;
+	background-color: #DE8CE2;
+	border-bottom-color: red;
+}
+#clase2 button{
+	position: relative;
+	left: 100px;
+	width: 50px;
+	bottom:120px;
+	border-radius: 50%;
+	background-color: red;
+	color: white;
+}
+.bloque{
+	width: 100%;
+	height: 200px;
+
+}
+/*
+.bloque.parallax{
+	height: 600px;
+	background-image: ("images.jpg");
+}
+.bloque {
+    position:relative;
+    background: url("universo.jpg") no-repeat fixed;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    min-height: 500px;
+     
+}*/
+#bloque{
+	height: 500px;
+	text-align: center;
+
+}
+#bloque{
+	 background: url("https://tudosisdiaria.com/wp-content/uploads/2013/10/beneficios-de-la-yoga.jpg");
+	 background-attachment: fixed;
+ 	 background-position: center;
+ 	 background-repeat: no-repeat;
+  	 background-size: cover;
+	
+ }
+ #bloque p{
+ 	width: 40%;
+ 	float: right;
+ 	margin-right: 400px;
+ 	margin-top: 300px;
+ 	color: white;
+ }
+#semana{
+	width: 200px;
+	height: 30px;
+	border: 1px solid;
+	float: right;
+	text-align: center;
+}
+#horario{
+	width: 100%;
+	height: 800px;
+	background-color: #D8D0D9;
+	text-align: center;
+}
+#cero{
+	width: 130px;
+	height: 150px;
+	border: 1px solid;
+	float: left;
+	text-align: center;
+}
+#prim1{
+	width: 200px;
+	height: 150px;
+	background-color: #8CBFE2;
+	border: 1px solid;
+	float: right;
+}
+#seg1{
+	width: 200px;
+	height: 150px;
+	background-color: #E2D98C;
+	border: 1px solid;
+	float: right;
+}
+#prim2{
+	width: 200px;
+	height: 150px;
+	background-color: #E28CC3;
+	border: 1px solid;
+	float: right;
+}
+#seg2{
+	width: 200px;
+	height: 150px;
+	background-color: #E2D98C;
+	border: 1px solid;
+	float: right;
+	opacity: 0;
+}
+#prim3{
+	width: 200px;
+	height: 150px;
+	background-color: #E2D98C;
+	border: 1px solid;
+	float: right;
+}
+#seg3{
+	width: 200px;
+	height: 150px;
+	background-color: #8CBFE2;
+	border: 1px solid;
+	float: right;
+}
+#prim4{
+	width: 200px;
+	height: 150px;
+	background-color: #DC7633;
+	border: 1px solid;
+	float: right;
+}
+#seg4{
+	width: 200px;
+	height: 150px;
+	background-color: #E2D98C;
+	border: 1px solid;
+	float: right;
+	opacity: 0;
+}
+#descripcion{
+	width: 100%;
+	height: 300px;
+	background-color: #5DADE2;
+	padding-top: 50px;
+	padding-left: 130px;
+
+}
+#desc{
+	width: 80%;
+	height: 200px;
+	background-color: #5DADE2;
+	border: 2px solid white;
+	color: white;
+
+}
+#desc img{
+	border-radius: 50%;
+	float: left;
+}
+#desc button{
+	background-color: white;
+	color: #5DADE2;
+	font-size: 20px;
+	border: none;
+	opacity: 0.5;
+	margin-left: 7px;
+}
+#desc button:hover{
+	opacity: 1;
+}
+#desc p{
+	width: 70%;
+	float: right;
+}
+#frase{
+	width: 100%;
+	height: 300px;
+	background-color: #D8D0D9;
+}
+#frase img{
+	margin-left:200px; 
+	float: left;
+}
+#frase h1{
+	color: #EF9A9A;
+	
+}
+#frase h2{
+	color: #5DADE2;
+}
+#frase p{
+	color: #ABB2B9;
+}
+#cont{
+	width: 100%;
+	height: 200px;
+	background-color: #E67E22;
+	float:left;
+}
+#cont ul{
+	list-style: none;
+}
+#cont ul li{
+	display: inline;
+	float: left;
+	margin-left: 130px;
+}
+#con1{
+	width: 100%;
+	height: 600px;
+	background-color: #D8D0D9;
+	float:left;
+	text-align: center;
+}
+#con1 ul{
+	list-style: none;
+}
+#con1 ul li{
+	display: inline;
+	float: left;
+	margin-left: 130px;
+}
+#con1 button{
+	position: relative;
+	right: 300px;
+	top: 50px;
+	width: 100px;
+	height: 50px;
+	border-radius: 30px;
+	float: left;
+}
+#conten{
+	width: 110%;
+	height: 500px;
+	margin-top: 800px;
+	background: url("https://tudosisdiaria.com/wp-content/uploads/2013/10/beneficios-de-la-yoga.jpg")blue;
+	background-attachment: fixed;
+ 	 background-position: center;
+ 	 background-repeat: no-repeat;
+  	 background-size: cover;
+
+}
+#contactoo{
+	width: 25%;
+	height: 250;
+	margin-right: 100px;
+	float: left;
+}
+#contactoo ul{
+	list-style: none;
+}
+#horas ul{
+	list-style: none;
+	width: 25%;
+	height: 250px;
+	margin-right: 100px;
+	float: left;
+	right: 200px;
+}
+#post{
+	width: 25%;
+	height: 250px;
+	margin-right: 100px;
+	float: left;
+	right: 200px;
+}
+
+#cc{
+	height: 200px;
+	background-color: #D8D0D9;
+	text-align: center;
+}
+#izq{
+	width: 50%;
+	height: 700px;
+	background-color: #D8D0D9;
+	float: left;
+}
+#der{
+	width: 50%;
+	height: 700px;
+	background-color: #D8D0D9;
+	float: right;
+}
+#der img{
+	border-radius: 50%;
+}
+#izq img{
+	border-radius: 50%;
+}
+#der ul{
+	list-style: none;
+}
+#izq ul{
+	list-style: none;
+}
+#penu{
+	width: 100%;
+	background-color: #66E7EE;
+	text-align: center;
+	
+}
+#ultimo{
+	width: 100%;
+	height: 400px;
+	background-color: #502654;
+	margin-bottom: 50px;
+	text-align: center;
+	color: white;
+}
+#ultimo ul{
+	display: inline;
+}
+#ultimo button{
+	border-radius: 50%;
+	right: 400px;
+	background-color: #502654;
+}
+#ultimo button img{
+	border-radius: 50%;
+	right: 400px;
+}
